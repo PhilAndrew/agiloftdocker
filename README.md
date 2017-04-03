@@ -3,7 +3,7 @@
 
 ## Install and run
 
-You need [Docker](https://www.docker.com/) and git. Docker runs on Linux, Apple MAC and some versions of Windows. Here it is assumed you are running docker on Linux.
+You need [Docker](https://www.docker.com/) and git. Docker runs on Linux, Apple MAC and some versions of Windows. Here it is assumed you are running docker on Linux. If you are not on Linux or Apple Mac shell then you need to read the contents of the shell scripts to see what commands are used.
 
 This process takes a lot of time due to the large size of the installer > 1 Gigabyte and the install process and startup.
 
