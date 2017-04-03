@@ -48,7 +48,7 @@ This appears as following
 
 ## Bug
 
-I just noticed that it starts running and only stays running for a few minutes before shutting down. So this problem should be fixed.
+I just noticed that it starts running and only stays running for a few minutes before shutting down. So this problem should be fixed. Most likely as its spawning a new process.
 
 ## Legal
 
