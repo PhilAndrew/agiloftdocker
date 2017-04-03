@@ -5,7 +5,7 @@
 
 You need [Docker](https://www.docker.com/) and git. Docker runs on Linux, Apple MAC and some versions of Windows. Here it is assumed you are running docker on Linux.
 
-This process takes some time due to the large size of the installer > 1 Gigabyte and the install process and startup.
+This process takes a lot of time due to the large size of the installer > 1 Gigabyte and the install process and startup.
 
 Clone this repository
 
