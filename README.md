@@ -1,5 +1,7 @@
 
-== Agiloft in Docker
+# Agiloft in Docker
+
+## Install and run
 
 You need [Docker](https://www.docker.com/) and git. Docker runs on Linux, Apple MAC and some versions of Windows. Here it is assumed you are running docker on Linux.
 
@@ -7,7 +9,7 @@ This process takes some time due to the large size of the installer > 1 Gigabyte
 
 Clone this repository
 
-    git clone ?
+    git clone https://github.com/PhilAndrew/agiloftdocker.git
 
 Make all the shell scripts executable
 
@@ -37,7 +39,7 @@ It takes some time to start, you can check the logs
 
 When it has started, http to http://localhost/gui2/ where localhost could be replaced with your machine IP address. This is Agiloft running inside Docker.
 
-== Legal
+## Legal
 
 This is of course all perfectly legal to place here and there is no problem with it, but I wish to be careful since Agiloft is not Open Source software.
 Just to be very careful, to remind people of the legal and to remind people that Agiloft owns all of Agiloft software and their Trademarks and Copyright and to be respectful of the Agiloft company.
