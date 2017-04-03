@@ -39,6 +39,10 @@ It takes some time to start, you can check the logs
 
 When it has started, http to http://localhost/gui2/ where localhost could be replaced with your machine IP address. This is Agiloft running inside Docker.
 
+This appears as following
+
+![Alt text](screenshot.png?raw=true "Optional Title")
+
 ## Legal
 
 This is of course all perfectly legal to place here and there is no problem with it, but I wish to be careful since Agiloft is not Open Source software.
