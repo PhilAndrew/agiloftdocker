@@ -48,7 +48,11 @@ This appears as following
 
 ## Bug
 
-I just noticed that it starts running and only stays running for a few minutes before shutting down. So this problem should be fixed. Most likely as its spawning a new process.
+I just noticed that it starts running and only stays running for a few minutes before shutting down. So this problem should be fixed. Most likely as the startup exits its process after startup. More information can be found here.
+
+http://stackoverflow.com/questions/30209776/docker-container-will-automatically-stop-after-docker-run-d
+
+This can be fixed, I'll fix it soon.
 
 ## Legal
 
