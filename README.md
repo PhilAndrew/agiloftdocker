@@ -3,6 +3,9 @@
 
 ## Install and run
 
+Do not use this for any real deployment, this is just for testing and demo.
+
+
 You need [Docker](https://www.docker.com/) and git. Docker runs on Linux, Apple MAC and some versions of Windows. Here it is assumed you are running docker on Linux. If you are not on Linux or Apple Mac shell then you need to read the contents of the shell scripts to see what commands are used.
 
 This process takes a lot of time due to the large size of the installer > 1 Gigabyte and the install process and startup.
@@ -42,6 +45,10 @@ When it has started, http to http://localhost/gui2/ where localhost could be rep
 This appears as following
 
 ![Alt text](screenshot.png?raw=true "Optional Title")
+
+## Bug
+
+I just noticed that it starts running and only stays running for a few minutes before shutting down. So this problem should be fixed.
 
 ## Legal
 
